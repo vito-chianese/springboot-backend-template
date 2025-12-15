@@ -1,10 +1,10 @@
 package com.vitochianese.template.service;
 
-import com.vitochianese.template.model.User;
+import com.vitochianese.template.dto.UserDto;
 
 import java.util.List;
 
 public interface UserService {
-    List<User> findAll();
-    User save(User user);
+    List<UserDto> findAll();
+    UserDto save(UserDto userDto);
 }
