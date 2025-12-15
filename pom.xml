@@ -8,8 +8,8 @@
 		<version>3.4.12</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.backendtemplate</groupId>
-	<artifactId>springboot-backend-template</artifactId>
+	<groupId>com.vitochianese</groupId>
+	<artifactId>template</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-backend-template</name>
 	<description>Backend Template project for Spring Boot</description>

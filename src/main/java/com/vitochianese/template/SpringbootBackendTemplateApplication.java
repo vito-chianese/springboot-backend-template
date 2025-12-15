@@ -1,4 +1,4 @@
-package com.backendtemplate.springboot_backend_template;
+package com.vitochianese.template;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

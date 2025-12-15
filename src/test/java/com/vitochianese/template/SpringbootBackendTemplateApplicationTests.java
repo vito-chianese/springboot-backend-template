@@ -1,4 +1,4 @@
-package com.backendtemplate.springboot_backend_template;
+package com.vitochianese.template;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
